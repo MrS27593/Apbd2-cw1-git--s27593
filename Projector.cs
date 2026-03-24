@@ -1,0 +1,4 @@
+class Projector : Equipment
+{
+
+}
